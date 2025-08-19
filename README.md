@@ -1,6 +1,6 @@
 ## Hi there 👋
 <!-- 방문자 카운터 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/<jinnybusock>&count_bg=%2379C83D&title_bg=%23555555&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jinnybusock&count_bg=%2379C83D&title_bg=%23555555&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # <jinnybusock>’s GitHub
 
@@ -9,23 +9,23 @@
     <td>
       <!-- GitHub 통계 카드 -->
       <img
-        src="https://github-readme-stats.vercel.app/api?jinnybusock=<jinnybusock>&show_icons=true&count_private=true&hide=contribs&theme=tokyonight"
+        src="https://github-readme-stats.vercel.app/api?username=jinnybusock&show_icons=true&count_private=true&hide=contribs&theme=tokyonight"
         height="180" />
       <br/>
       <!-- 사용 언어 카드(선택) -->
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?jinnybusock=<jinnybusock>&layout=compact&theme=tokyonight"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinnybusock&layout=compact&theme=tokyonight"
         height="120" />
     </td>
     <td>
       <!-- solved.ac 뱃지 (실버/골드 표시) -->
-      <a href="https://solved.ac/<jinnybusock>">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=<jinnybusock>" height="180"/>
+      <a href="https://solved.ac/<BOJ_ID>">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=<BOJ_ID>" height="180"/>
       </a>
       <br/>
       <!-- streak 카드(선택) -->
       <img
-        src="https://streak-stats.demolab.com?user=<jinnybusock>&theme=tokyonight&hide_border=true"
+        src="https://streak-stats.demolab.com?user=jinnybusock&theme=tokyonight&hide_border=true"
         height="120" />
     </td>
   </tr>
