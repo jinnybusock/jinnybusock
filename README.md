@@ -9,12 +9,12 @@
     <td>
       <!-- GitHub 통계 카드 -->
       <img
-        src="https://github-readme-stats.vercel.app/api?username=<jinnybusock>&show_icons=true&count_private=true&hide=contribs&theme=tokyonight"
+        src="https://github-readme-stats.vercel.app/api?jinnybusock=<jinnybusock>&show_icons=true&count_private=true&hide=contribs&theme=tokyonight"
         height="180" />
       <br/>
       <!-- 사용 언어 카드(선택) -->
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=<jinnybusock>&layout=compact&theme=tokyonight"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?jinnybusock=<jinnybusock>&layout=compact&theme=tokyonight"
         height="120" />
     </td>
     <td>
